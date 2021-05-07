@@ -350,3 +350,4 @@ MigrationBackup/
 .ionide/
 
 # VS Code assets folder
+.vscode/
